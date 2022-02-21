@@ -94,7 +94,7 @@ class LetterIndexBar : View {
     /**
      * 选中位置
      */
-    private var choosePosition = -1
+    private var choosePosition = 0
 
     /**
      * 触摸回调
