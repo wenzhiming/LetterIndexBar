@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideBarView">
+        <attr name="sideTextColor" format="reference" />
+        <attr name="sidePressedTextColor" format="reference" />
+        <attr name="sidePressedTextBgColor" format="reference" />
+        <attr name="sideItemHeight" format="dimension" />
+        <attr name="sideItemSpacing" format="dimension" />
+        <attr name="sideTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
